@@ -45,10 +45,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"LevelList","value":{"$content":[0],"$type":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"LevelList","value":{"$content":[0,1,2,3,4],"$type":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
-    - {fileID: 3521564880115268363, guid: ee9e9e085e4ed5c4fb5ce31c2628234b, type: 3}
+    - {fileID: 3521564880115268363, guid: c765a309618e64a4ebbcf3a2e7eb5662, type: 3}
+    - {fileID: 3521564880115268363, guid: 546467896213f394bac98ef8ae6ee394, type: 3}
+    - {fileID: 3521564880115268363, guid: aef140280f271564ca9eb2104dcfcd74, type: 3}
+    - {fileID: 3521564880115268363, guid: 0abf830cc2a69ec4c9154e7d20c34f60, type: 3}
+    - {fileID: 3521564880115268363, guid: 2c1d869fe03f36f42941547c45ec2a7e, type: 3}
 --- !u!114 &1929222809698011713
 MonoBehaviour:
   m_ObjectHideFlags: 0
